@@ -18,3 +18,5 @@ pypdf
 requests
 beautifulsoup4
 langchain_experimental
+chromadb
+tiktoken
